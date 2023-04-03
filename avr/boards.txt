@@ -240,6 +240,14 @@ menu.bootloader=Bootloader
 1284.menu.clock.1MHz_internal.build.clock_speed={build.f_cpu}
 1284.menu.clock.1MHz_internal.build.f_cpu=1000000L
 
+1284.menu.baud.default=Default {upload.speed}
+1284.menu.baud.default.upload.speed={upload.speed}
+1284.menu.baud.115200=115200
+1284.menu.baud.115200.upload.speed=115200
+1284.menu.baud.57600=57600
+1284.menu.baud.57600.upload.speed=57600
+1284.menu.baud.19200=19200
+1284.menu.baud.19200.upload.speed=19200
 
 
 ###########################
